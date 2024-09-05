@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    gap: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: linear-gradient( #293D4C, #577086, #16252F);    
+
+}
+
+html{
+    scroll-behavior: smooth;
+}

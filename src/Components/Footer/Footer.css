@@ -1,0 +1,39 @@
+.inspired{
+    background: linear-gradient( #233540 ,#233540, #141F26);
+    border: 0.5rem solid hsl(10, 10%, 100%);
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    max-width: 450px;
+    color: #f2f2f2;
+    margin-bottom: 4rem;
+    transition: transform 0.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+
+.inspired:hover {
+    transform: scale(1.5);
+    transition: transform 0.5s ease-in-out;
+
+}
+
+.direito{
+    background: linear-gradient( #233540 ,#233540, #141F26);
+    border: 0.5rem solid hsl(10, 10%, 100%);
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    max-width: 450px;
+    color: #f2f2f2;
+    transition: transform 0.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+.direito:hover{
+        transform: scale(1.5);
+        transition: transform 0.5s ease-in-out;
+}
+
